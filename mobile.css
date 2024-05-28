@@ -1,0 +1,9 @@
+@media (max-width:600px) {
+    .contact-boxes{
+        flex-direction: column;
+    }
+
+    .boxes{
+        margin: 20px 0;
+    }
+}
